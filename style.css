@@ -1,0 +1,18 @@
+.paint-canvas{
+    border: 3px solid black;
+    display: block;
+    margin: 20px auto;
+    background-color: rgb(255, 235, 205);
+}
+
+.color-picker{
+    margin: 20px 20px 0px 20px;
+}
+
+body{
+   background-image: url(https://image.freepik.com/free-psd/abstract-shapes-white-background_1297-153.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    text-align: center;
+    
+}
